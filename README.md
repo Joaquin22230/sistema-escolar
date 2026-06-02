@@ -2,7 +2,7 @@ Proyecto Sistema de Gestion Escolar
 
 Integrantes:
 - Joaquin Rifo
-- Curso
+- 3°C
 
 Descripción:
 Repositorio inicial del proyecto escolar
@@ -11,3 +11,4 @@ Funcionalidades futuras:
 - Control de asistencia
 - Inicio de sesión
 - Administración de usuarios
+  
